@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Istrate_Gabriel_Lab2\obj\Debug\netcoreapp3.1\Istrate_Gabriel_Lab2.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Istrate_Gabriel_Lab2\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\User\source\repos\Istrate_Gabriel_Lab2\obj\Debug\netcoreapp3.1\Istrate_Gabriel_Lab2_MarkupCompile.cache
+C:\Users\User\source\repos\Istrate_Gabriel_Lab2\obj\Debug\netcoreapp3.1\Istrate_Gabriel_Lab2.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Istrate_Gabriel_Lab2\obj\Debug\netcoreapp3.1\Istrate_Gabriel_Lab2.AssemblyInfo.cs
+C:\Users\User\source\repos\Istrate_Gabriel_Lab2\obj\Debug\netcoreapp3.1\Istrate_Gabriel_Lab2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Istrate_Gabriel_Lab2\bin\Debug\netcoreapp3.1\Istrate_Gabriel_Lab2.exe
+C:\Users\User\source\repos\Istrate_Gabriel_Lab2\bin\Debug\netcoreapp3.1\Istrate_Gabriel_Lab2.deps.json
+C:\Users\User\source\repos\Istrate_Gabriel_Lab2\bin\Debug\netcoreapp3.1\Istrate_Gabriel_Lab2.runtimeconfig.json
+C:\Users\User\source\repos\Istrate_Gabriel_Lab2\bin\Debug\netcoreapp3.1\Istrate_Gabriel_Lab2.runtimeconfig.dev.json
+C:\Users\User\source\repos\Istrate_Gabriel_Lab2\bin\Debug\netcoreapp3.1\Istrate_Gabriel_Lab2.dll
+C:\Users\User\source\repos\Istrate_Gabriel_Lab2\bin\Debug\netcoreapp3.1\Istrate_Gabriel_Lab2.pdb
+C:\Users\User\source\repos\Istrate_Gabriel_Lab2\obj\Debug\netcoreapp3.1\Istrate_Gabriel_Lab2.dll
+C:\Users\User\source\repos\Istrate_Gabriel_Lab2\obj\Debug\netcoreapp3.1\Istrate_Gabriel_Lab2.pdb
+C:\Users\User\source\repos\Istrate_Gabriel_Lab2\obj\Debug\netcoreapp3.1\Istrate_Gabriel_Lab2.genruntimeconfig.cache
